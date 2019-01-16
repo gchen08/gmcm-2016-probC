@@ -1,0 +1,10 @@
+# My configuation 
+lib
+prob
+ans
+test
+*.bak
+*.txt
+*.csv
+*.bin
+*.pdf
